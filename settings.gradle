@@ -1,3 +1,4 @@
+include ':media'
 include ':architecture'
 include ':widget'
 include ':utils'
